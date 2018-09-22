@@ -1,0 +1,42 @@
+/* -------- */
+/* ABOUT US */
+/* -------- */
+  .aboutus {
+    padding: 110px 0 40px 0;
+  }
+  
+    .aboutus h1{
+      font-size: 25px;
+    }
+
+    .aboutus p{
+      line-height: 20px;
+    }
+
+/* -------- */
+/* OUR TEAM */
+/* -------- */
+  .team{
+    border-bottom: 1px solid black;
+  }
+    
+    .card{
+      width: 33%;
+      display: inline-block;
+    }
+
+      .team img{
+        width: 280px;
+      }
+
+      .card_cont h3{
+        font-size: 20px;
+        text-align: center;
+        padding: 25px 0 5px 0;
+      }
+      
+      .card_cont p{
+        line-height: 19px;
+        padding: 0 10px 30px 10px;
+        text-align: center;
+      }
